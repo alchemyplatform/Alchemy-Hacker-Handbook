@@ -30,18 +30,18 @@
 <br />
 <div align="center">
 
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="alchemy.com/hackathon">
+    <img src="images/logo.webp" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">Alchemy Hacker Handbook</h3>
 
   <p align="center">
-    Click, copy, deploy - a collection of code snippets to kickstart your hackathon project in 30 seconds.
+    <strong>Click, copy, deploy </strong>- a collection of code snippets to kickstart your hackathon project in 30 seconds.
+    <br />
     <br />
     Powered by <a href="alchemy.com">Alchemy.com</a>
     <br />
-
     <a href="alchemy.com/hackathon"><strong>Visit the Website</strong></a>
     <br />
     <br />
@@ -51,7 +51,7 @@
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
     
-  </p>
+ 
 </div>
 
 
@@ -89,59 +89,49 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+The Alchemy Hacker Hanbook GitHub repo contains 10+ code-snippets divided by cathegories to help you kickstart your application. 
+
+Fork this repo to get access to all the code snippets contained in it and drag and drop them into your project. 
+
+The Alchemy Hacker Handbook repository is completely OpenSourced and we encourage everyone to send their snippets to share with hackers from all around the world. 
+
+Read here how to take part in our OpenSource program an take part in hudreds of initiatives, get rewarded, and enter a community of 20.000+ web3 developers.
+
+<p align="center">
+<br/>
+<a href="alchemy.com/hackathon">
+    <img src="images/logo.webp" alt="Logo" width="300" height="300">
+</a>
+    <br />
+    <br />
+    discover more at <a href="alchemy.com/hackathons">Alchemy.com/hackathons</a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">Bounties program</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Grant program</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Get a free account</a>
+    
+ 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+<ol>
+<li>If you haven't already, create a free Alchemy account</li>
+<li>Navigate to the folder related to your blockchain.</li>
+<li>Search through the code snipped</li>
+<li>Follow the instructions to implement the different code snippets in the respective readme file</li>
+<li>Other</li>
+</ol>
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+## Useful resources
+Add useful resources here
 
 
 <!-- USAGE EXAMPLES -->
@@ -156,17 +146,21 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
+## Useful resources
+list of useful resources
+
+
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Add EVM snippets
+- [ ] Open OpenSource program
+- [ ] Add code snippets cathegories (DeFi, NFTs, Governance)
+- [ ] Add Solidity snippets
+
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
