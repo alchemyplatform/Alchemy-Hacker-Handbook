@@ -89,7 +89,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-The Alchemy Hacker Hanbook GitHub repo contains 10+ code-snippets divided by cathegories to help you kickstart your application. 
+The Alchemy Hacker Hanbook GitHub repo contains 10+ code-snippets divided by categories to help you kickstart your application. 
 
 Fork this repo to get access to all the code snippets contained in it and drag and drop them into your project. 
 
