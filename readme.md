@@ -129,7 +129,7 @@ list of useful resources
 
 - [ ] Add EVM snippets
 - [ ] Open OpenSource program
-- [ ] Add code snippets cathegories (DeFi, NFTs, Governance)
+- [ ] Add code snippets categories (DeFi, NFTs, Governance)
 - [ ] Add Solidity snippets
 
 See the [open issues](https://github.com/alchemyplatform/Alchemy-Hacker-Handbook/issues) for a full list of proposed features (and known issues).
